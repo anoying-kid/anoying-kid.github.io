@@ -60873,7 +60873,7 @@ A.QF.prototype={
 $0(){B.vh.Im(window,"https://drive.google.com/drive/folders/1mteyU7aQ42o33URNLRZjQz7J51CqkHVa?usp=share_link","new tab")},
 $S:0}
 A.QG.prototype={
-$0(){B.vh.Im(window,"https://drive.google.com/file/d/1aHZzikZ9orkbfvbDhGBcSDGcJczhaFfN/view?usp=sharing","new tab")},
+$0(){B.vh.Im(window,"https://drive.google.com/drive/folders/1cUThN1JOOpAKl1zi-rns6H9b7aBymBKo?usp=share_link","new tab")},
 $S:0}
 A.AH.prototype={
 E(a){var s=t.p
@@ -61058,7 +61058,7 @@ A.A8.prototype={
 E(a){var s=null,r=A.c4("Please reach out to me by email",!0,$.aaE(),B.bm,s)
 return new A.by(B.yW,A.bO(A.a([new A.by(B.yO,r,s),B.aN,A.c4("yugrana853@gmail.com",!0,$.yJ(),s,s)],t.p),B.y,B.r),s)}}
 A.BZ.prototype={
-E(a){var s=null,r=A.c4("www.example.cc",!0,$.akq(),s,s)
+E(a){var s=null,r=A.c4("http://www.anoying-kid.github.io",!0,$.akq(),s,s)
 return new A.by(B.yP,A.bO(A.a([r,B.aN,A.c4(u.O,!0,$.aaG(),B.bm,s)],t.p),B.y,B.r),s)}}
 A.kR.prototype={
 F(){return"DeviceScreenType."+this.b}}
@@ -63668,7 +63668,7 @@ B.df=new A.ic(1,"traditional")
 B.ND=new A.BT(0,"automatic")
 B.aH=new A.eK(6)
 B.BZ=A.a(s(["website","copyright"]),t.s)
-B.NH=new A.ax(2,{website:"www.example.cc",copyright:u.O},B.BZ,t.l)
+B.NH=new A.ax(2,{website:"http://www.anoying-kid.github.io",copyright:u.O},B.BZ,t.l)
 B.lJ=new A.BZ(null)
 B.lK=new A.js("Invalid method call",null,null)
 B.zc=new A.js("Expected envelope, got nothing",null,null)
